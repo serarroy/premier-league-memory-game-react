@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&display=swap');
+
+.landing{
+    text-align: center;
+    margin-top: 250px;
+    font-size: 30px;
+}
+
+button{
+    background: none;
+    border: none;
+    margin-top: 150px;
+    font-size: 40px;
+    font-family: 'Barriecito', cursive;
+    color: white;
+}
+
+button:hover{
+    cursor: pointer;
+    color: orangered;
+}
+
+.landing{
+    color: black;
+}
